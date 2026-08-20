@@ -163,7 +163,5 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 
 ## REFERENCES
 
-- **Marvin Espino** — Technical Director, Applications Engineering ([Marvin.Espino@power.com](mailto:Marvin.Espino@power.com))
 - **Donnie Rey Saturno** — Senior Applications Engineering Manager ([DonnieRey.Saturno@power.com](mailto:DonnieRey.Saturno@power.com))
-- **Mark Manango** — Senior Staff Applications Engineer ([Mark.Manango@power.com](mailto:Mark.Manango@power.com))
 - **Marvin Ralph Bautista** — Staff Engineer, New Product Definition ([ralph.bautista@power.com](mailto:ralph.bautista@power.com))

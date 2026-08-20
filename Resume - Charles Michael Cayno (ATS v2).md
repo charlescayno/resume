@@ -113,4 +113,5 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 
 ## REFERENCES
 
-Available upon request.
+- **Donnie Rey Saturno** — Senior Applications Engineering Manager (DonnieRey.Saturno@power.com)
+- **Marvin Ralph Bautista** — Staff Engineer, New Product Definition (ralph.bautista@power.com)
