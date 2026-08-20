@@ -9,7 +9,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Results-driven, detail-oriented, and highly resilient **Senior Power Supply Design Engineer** with over 5 years of experience in the design, development, simulation, and validation of high-efficiency power supply systems. Recognized expert in AC-DC and DC-DC converter architectures, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Demonstrated success in leading high-visibility global projects, completing a specialized US engineering assignment, authoring industry conference proposals (APEC, PCIM), and publishing technical papers. Solid background in embedded digital power control, test automation with Python, and regulatory compliance (IEC, UL, FCC, CCC). Committed to applying industry best practices to deliver robust, production-ready power solutions.
+Results-driven **Senior Power Supply Design Engineer** with over 5 years of experience architecting high-efficiency AC-DC and DC-DC converter systems up to 1700V. Recognized domain expert in switch-mode power supply (SMPS) topologies, GaN / SiC power devices, custom magnetics design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation (CISPR 22 Class B). Proven track record of executing international assignments (US engineering project lead), authoring industry conference proposals (APEC 2027, PCIM 2025), and building Python test bench automation. Licensed Electronics Engineer adept at leading cross-functional engineering initiatives from concept to production qualification.
 
 ---
 
