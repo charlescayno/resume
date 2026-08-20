@@ -9,7 +9,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Results-driven Senior Power Supply Design Engineer with over 5 years of professional experience in the design, development, simulation, and validation of high-efficiency AC-DC and DC-DC power supply systems. Recognized expert in switch-mode power supply (SMPS) topologies, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Proven capability in digital power control, test automation with Python, global project execution (including US engineering assignment), conference paper authoring (APEC, PCIM), and product qualification under global regulatory standards (IEC, UL, FCC, CCC). Skilled in leading engineering projects, cross-functional collaboration, and mentoring technical teams.
+Results-driven Senior Power Supply Design Engineer with over 6 years of professional experience in the design, development, simulation, and validation of high-efficiency AC-DC and DC-DC power supply systems. Recognized expert in switch-mode power supply (SMPS) topologies, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Proven capability in digital power control, test automation with Python, global project execution (including US engineering assignment), conference paper authoring (APEC, PCIM), and product qualification under global regulatory standards (IEC, UL, FCC, CCC). Skilled in leading engineering projects, cross-functional collaboration, and mentoring technical teams.
 
 ---
 
@@ -107,19 +107,6 @@ Results-driven Senior Power Supply Design Engineer with over 5 years of professi
 - Conducted comprehensive teardown analysis of competitor USB Power Delivery (PD) adapters for internal benchmarking and product development.
 - Delivered technical support to Field Application Engineers (FAEs) across regions (India, China, Taiwan) and provided direct assistance to key customers such as Tridonic.
 - Led and facilitated PSU 101 Lab training sessions for FAEs.
-
-**Projects Accomplished:**
-- **DER-916** *(65 W Dual USB-C Shared Capacity Ports with Current Sharing Using InnoSwitch3-Pro PowiGaN™ INN3370C-H302)*
-  - Evaluated and tested power supply designs to meet performance specifications and ensure compliance with conducted EMI standards (CISPR 22 Class B / EN 55022 Class B).
-  - Hands-on experience with dual USB Type-C Power Delivery (PD) 3.0 shared capacity ports utilizing IP2726 controller for power negotiation.
-  - Developed test automation scripts to accelerate evaluation for dual-output power supplies.
-- **DER-925** *(37 W LED Driver with Legacy 3-Way and Advance-Dimming) and Marketing Units*
-  - Evaluated marketing sample units to ensure functionality and performance prior to customer shipment.
-  - Participated in pilot Design Evaluation Report (DER) for LYTSwitch-8, an unreleased high-visibility product.
-  - Provided technical support and troubleshooting guidance.
-- **DER-945** *(75 W Dimmable LED Driver 100 – 300 VAC, 46 V – 24 V, 1630 mA output using LYTSwitch™-8 LYT8370C in Flyboost™ Topology)*
-  - Designed, developed, and evaluated a 75 W 3-in-1 dimmable LED driver using proprietary Flyboost™ topology supporting a wide output voltage range (24 V – 46 V).
-  - Delivered functional sample units for marketing samples and design reference at FAEC 2022.
 
 ---
 
