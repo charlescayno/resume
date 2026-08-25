@@ -9,7 +9,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Results-driven Senior Power Supply Design Engineer with over 6 years of professional experience in the design, development, simulation, and validation of high-efficiency AC-DC and DC-DC power supply systems. Recognized expert in switch-mode power supply (SMPS) topologies, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Proven capability in digital power control, test automation with Python, global project execution (including US engineering assignment), conference paper authoring (APEC, PCIM), and product qualification under global regulatory standards (IEC, UL, FCC, CCC). Skilled in leading engineering projects, cross-functional collaboration, and mentoring technical teams.
+Results-driven Senior Power Supply Design Engineer with over 6 years of professional experience in the design, development, simulation, and validation of high-efficiency AC-DC and DC-DC power supply systems. Recognized expert in switch-mode power supply (SMPS) topologies, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Proven capability in digital power control, test automation with Python, global project execution (including US engineering assignment), conference paper authoring (PCIM), and product qualification under global regulatory standards (IEC, UL, FCC, CCC). Skilled in leading engineering projects, cross-functional collaboration, and mentoring technical teams.
 
 ---
 
@@ -25,7 +25,7 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 - Architect high-power-density power supply designs featuring GaN / PowiGaN, SiC (Silicon Carbide), and 1700V InnoMux2 technologies with optimized thermal management and low EMI.
 - Execute custom magnetic design (PQ, EFD, EE cores), thermal stress calculations, and PCB layout reviews to comply with international safety, high dv/dt, and EMC standards.
 - Completed a specialized US engineering assignment (May – June 2026) collaborating with US lead engineering teams on high-temperature SilentBridge power platforms.
-- Author conference proposals (APEC 2027) and technical papers, collaborate with cross-functional engineering teams, and mentor junior engineers in power electronics design and testing.
+- Author technical papers, collaborate with cross-functional engineering teams, and mentor junior engineers in power electronics design and testing.
 
 **Projects Accomplished:**
 - **DER-1113** *(80 W High-Efficiency Flyback Converter using TopSwitchGaN with PQ 35/35 Core)*
@@ -38,8 +38,6 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 - **0195b — SilentBridge High-Temperature Testing & RCA** *(US Engineering Assignment: May – June 2026)*
   - Stationed in the US collaborating with lead engineers (Thomas & Jared) on the SilentBridge high-power platform.
   - Conducted extreme high-temperature stress testing ($125^\circ\text{C } T_j, 95^\circ\text{C}$ ambient) and performed root-cause failure analysis (RCA) on shorted LV/HV FETs to improve system robustness.
-- **APEC 2027 Industry Session Proposal:**
-  - Authored and submitted an accepted Industry Session proposal for APEC 2027 titled *"Multi-output Regulation in Stadium Lighting"*.
 - **InnoMux2-1700V & Inno3-SiC High dv/dt Testing Hardware:**
   - Evaluated max power capability for 1700V InnoMux2 architectures targeted at high-voltage industrial and utility grid power conversion.
   - Designed and validated specialized high dv/dt test hardware for Silicon Carbide (**InnoSwitch3-SiC F package**) and evaluated automotive **InnoSwitch3-AQ** dV/dt characteristics during DOPL.
@@ -142,7 +140,7 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 - **Software & Scripting:** Python 3, MATLAB, C/C++ (for embedded power applications)
 - **Testing & Validation:** Power supply characterization, failure analysis, regulatory testing
 - **Microcontroller-Based Power Control:** Embedded control for digital power supplies (Nordic, Microchip, BLE protocols)
-- **Project Leadership:** Team mentoring, cross-functional collaboration, conference paper authoring (APEC, PCIM)
+- **Project Leadership:** Team mentoring, cross-functional collaboration
 
 ---
 

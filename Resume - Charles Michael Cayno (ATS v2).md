@@ -9,7 +9,7 @@ LinkedIn: https://www.linkedin.com/in/charlescayno/
 
 ## PROFESSIONAL SUMMARY
 
-Results-driven Senior Power Supply Design Engineer with over 6 years of professional experience in the design, development, simulation, and validation of high-efficiency AC-DC and DC-DC power supply systems. Recognized expert in switch-mode power supply (SMPS) topologies, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Proven capability in digital power control, test automation with Python, global project execution (including US engineering assignment), conference paper authoring (APEC, PCIM), and product qualification under global regulatory standards (IEC, UL, FCC, CCC). Skilled in leading engineering projects, cross-functional collaboration, and mentoring technical teams.
+Results-driven Senior Power Supply Design Engineer with over 6 years of professional experience in the design, development, simulation, and validation of high-efficiency AC-DC and DC-DC power supply systems. Recognized expert in switch-mode power supply (SMPS) topologies, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Proven capability in digital power control, test automation with Python, global project execution (including US engineering assignment), conference paper authoring (PCIM), and product qualification under global regulatory standards (IEC, UL, FCC, CCC). Skilled in leading engineering projects, cross-functional collaboration, and mentoring technical teams.
 
 ---
 
@@ -33,13 +33,12 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 - Architect high-power-density power supply designs featuring GaN / PowiGaN, SiC (Silicon Carbide), and 1700V InnoMux2 technologies with optimized thermal management and low EMI.
 - Execute detailed magnetic design (PQ, EFD, EE cores), thermal dissipation calculations, and PCB layout reviews to comply with international safety, high dv/dt, and EMC standards.
 - Completed a specialized US engineering assignment (May – June 2026) collaborating with US lead engineering teams on high-temperature SilentBridge power platforms.
-- Author conference proposals (APEC 2027) and technical papers, collaborate with cross-functional engineering teams, and mentor junior engineers in power electronics design and testing.
+- Author technical papers, collaborate with cross-functional engineering teams, and mentor junior engineers in power electronics design and testing.
 
 **Selected Projects:**
 - **DER-1113 (80W Flyback Converter using TopSwitchGaN & PQ 35/35 Core):** Designed an 80W power supply achieving 91.78% peak efficiency at 230 VAC using custom PQ 35/35 litz wire magnetics. Solved TopSwitchGaN IC overvoltage damage caused by TVS breakdown voltage mismatch. Optimized radiated EMI using Material 43 ferrite suppression; delivered functional marketing samples for global customer evaluation.
 - **DER-1081 (50W Emergency Smart Lighting Supply):** Developed a slim-profile (9.78 in x 1.06 in x 0.63 in) 50W flyback power supply with 1 CV and 1 CC output, high power factor (>0.904), low THD (<9.09%), and 1-wire PWM dimming. Resolved complex startup faults and VDS voltage stress issues; delivered validated Rev B & C marketing samples to key stakeholders.
 - **0195b — SilentBridge High-Temp Testing & RCA (US Business Trip):** Stationed in the US (May – June 2026) collaborating with lead engineers (Thomas & Jared) on the SilentBridge high-power platform. Conducted extreme high-temperature stress testing (125°C Tj, 95°C ambient) and root-cause failure analysis (RCA) on shorted LV/HV FETs.
-- **APEC 2027 Industry Session Proposal:** Authored and submitted an accepted Industry Session proposal for APEC 2027 titled *"Multi-output Regulation in Stadium Lighting"*.
 - **InnoMux2-1700V & Inno3-SiC High dv/dt Testing Hardware:** Evaluated 1700V InnoMux2 max power capabilities for utility grid and industrial applications. Designed specialized high dv/dt test hardware for Silicon Carbide (InnoSwitch3-SiC F package) and evaluated automotive InnoSwitch3-AQ dV/dt characteristics during DOPL.
 - **DER-1050 (82W Smart Clothes-Dryer Rack Flyback Supply):** Designed an 82W flyback converter with 2 CV and 1 CC outputs using InnoMux2-EP and Switch Valley-Fill (SVF) passive PFC. Featured at PCIM 2025.
 
