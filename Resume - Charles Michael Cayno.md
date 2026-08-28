@@ -1,7 +1,7 @@
 # Charles Michael F. Cayno
 
 **Present Address:** 24 Riverside Drive, Riverside Village, Brgy. Sta. Lucia, Pasig City, Metro Manila, Philippines  
-**Email:** cfcayno@gmail.com | Charles.Cayno@power.com  
+**Email:** cfcayno@gmail.com   
 **Contact Number:** (+63) 968 2671 491  
 **LinkedIn:** [linkedin.com/in/charlescayno](https://www.linkedin.com/in/charlescayno/)  
 

@@ -1,7 +1,7 @@
 # Charles Michael F. Cayno
 
 **Present Address:** 24 Riverside Drive, Riverside Village, Brgy. Sta. Lucia, Pasig City, Metro Manila, Philippines  
-**Email:** cfcayno@gmail.com | Charles.Cayno@power.com  
+**Email:** cfcayno@gmail.com  
 **Contact Number:** (+63) 968 2671 491  
 **LinkedIn:** [linkedin.com/in/charlescayno](https://www.linkedin.com/in/charlescayno/)  
 
@@ -33,11 +33,11 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
   - Investigated and resolved TopSwitchGaN IC overvoltage damage caused by TVS breakdown voltage mismatch during AC cycling.
   - Executed radiated EMI optimization using Material 43 ferrite suppression; built and delivered functional marketing sample units for global customer evaluation.
 - **DER-1081** *(50 W Slim-Profile Emergency Smart Lighting Power Supply using InnoMux2-EP)*
-  - Developed a slim-profile ($9.78\text{ in} \times 1.06\text{ in} \times 0.63\text{ in}$) emergency smart lighting power supply featuring 1 CV & 1 CC outputs, 1-wire filtered PWM dimming, high power factor ($>0.904$), low THD ($<9.09\%$), and $>88.6\%$ efficiency.
-  - Resolved complex startup faults and $V_{DS}$ voltage stress issues; delivered validated Rev B & C marketing samples to key stakeholders.
+  - Developed a slim-profile (9.78 in × 1.06 in × 0.63 in) emergency smart lighting power supply featuring 1 CV & 1 CC outputs, 1-wire filtered PWM dimming, high power factor (>0.904), low THD (<9.09%), and >88.6% efficiency.
+  - Resolved complex startup faults and VDS voltage stress issues; delivered validated Rev B & C marketing samples to key stakeholders.
 - **0195b — SilentBridge High-Temperature Testing & RCA** *(US Engineering Assignment: May – June 2026)*
   - Stationed in the US collaborating with lead engineers (Thomas & Jared) on the SilentBridge high-power platform.
-  - Conducted extreme high-temperature stress testing ($125^\circ\text{C } T_j, 95^\circ\text{C}$ ambient) and performed root-cause failure analysis (RCA) on shorted LV/HV FETs to improve system robustness.
+  - Conducted extreme high-temperature stress testing (125°C Tj, 95°C ambient) and performed root-cause failure analysis (RCA) on shorted LV/HV FETs to improve system robustness.
 - **InnoMux2-1700V & Inno3-SiC High dv/dt Testing Hardware:**
   - Evaluated max power capability for 1700V InnoMux2 architectures targeted at high-voltage industrial and utility grid power conversion.
   - Designed and validated specialized high dv/dt test hardware for Silicon Carbide (**InnoSwitch3-SiC F package**) and evaluated automotive **InnoSwitch3-AQ** dV/dt characteristics during DOPL.
@@ -72,7 +72,7 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
   - Demonstrated thorough and methodical evaluation for new product ICs, identifying key capabilities and limitations.
   - Provided technical support to customer activities including Steinel and Nestle.
 - **DER-727** *(75 W 2-Stage PFC Boost and Isolated Flyback Dimmable LED Ballast Using HiperPFS®-5 PFS5173F and LYTSwitch®-6 PowiGaN®-Based LYT6078C)*
-  - Achieved top dimming performance using LYTSwitch-6 by optimizing the dimming circuit to enable $<1\%$ dimming with no shimmer.
+  - Achieved top dimming performance using LYTSwitch-6 by optimizing the dimming circuit to enable <1% dimming with no shimmer.
 - **DER-999** *(PIHi - High Power Wireless Charger using HiperLCS-2)*
   - Took over high-power wireless charger project from previous Staff Engineer overseeing the project.
   - Implemented protection features through microcontroller programming including line transient and AC cycling.
@@ -134,7 +134,7 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 - **Magnetics Design:** Transformers (PQ, EFD, EE, Ferrite Core Selection), Inductors, Litz Winding Techniques, Ferrite Material 43 Suppression
 - **PCB Design & Layout:** Altium Designer 26, OrCAD Allegro, KiCad
 - **Embedded Power Control:** Digital Power Controllers, DSPs, Microcontrollers (MCUs)
-- **Thermal Management & Testing:** Extreme High-Temperature Testing ($125^\circ\text{C } T_j, 95^\circ\text{C}$ Ambient), Heat Sink Design, Power Dissipation Analysis
+- **Thermal Management & Testing:** Extreme High-Temperature Testing (125°C Tj, 95°C Ambient), Heat Sink Design, Power Dissipation Analysis
 - **Compliance & Testing:** EMI/EMC Compliance (CISPR 22, FCC), Safety Standards (UL, IEC, ISO, CCC), High dv/dt Testing Hardware
 - **Prototyping & Debugging:** Oscilloscopes, Spectrum Analyzers, Load Testing, Root-Cause Failure Analysis (RCA)
 - **Software & Scripting:** Python 3, MATLAB, C/C++ (for embedded power applications)

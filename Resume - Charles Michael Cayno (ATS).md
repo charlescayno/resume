@@ -2,7 +2,7 @@
 
 Pasig City, Metro Manila, Philippines  
 Phone: (+63) 968 2671 491  
-Email: cfcayno@gmail.com | Charles.Cayno@power.com  
+Email: cfcayno@gmail.com   
 LinkedIn: https://www.linkedin.com/in/charlescayno/  
 
 ---
