@@ -9,7 +9,7 @@ LinkedIn: https://www.linkedin.com/in/charlescayno/
 
 ## PROFESSIONAL SUMMARY
 
-Results-driven Senior Power Supply Design Engineer with over 6 years of professional experience in the design, development, simulation, and validation of high-efficiency AC-DC and DC-DC power supply systems. Recognized expert in switch-mode power supply (SMPS) topologies, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Proven capability in digital power control, test automation with Python, global project execution (including US engineering assignment), conference paper authoring (PCIM), and product qualification under global regulatory standards (IEC, UL, FCC, CCC). Skilled in leading engineering projects, cross-functional collaboration, and mentoring technical teams.
+Results-driven Senior Power Supply Design Engineer with over 6 years of professional experience in the design, development, simulation, and validation of high-efficiency AC-DC and DC-DC power supply systems. Recognized expert in switch-mode power supply (SMPS) topologies, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Proven capability in digital power control, automated multi-instrument testing across 20+ IC product families with Python, global project execution (including US engineering assignment), conference paper authoring (PCIM), and product qualification under global regulatory standards (IEC, UL, FCC, CCC). Skilled in leading engineering projects, cross-functional collaboration, and mentoring technical teams.
 
 ---
 
@@ -19,7 +19,7 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 - **Circuit Design & Simulation:** SIMetrix, SIMPLIS, LTspice, MATLAB, Simulink, Schematic Capture, Transformer & Inductor Design (PQ, EFD, EE Cores), Ferrite Core Selection, Winding Design.
 - **PCB Layout & Tools:** Altium Designer 26, OrCAD Allegro, KiCad, High-Voltage Layout Design, Creepage & Clearance Compliance, Thermal Layout Optimization.
 - **Compliance & Testing:** EMI/EMC Compliance (CISPR 22 / EN 55022 Class B), Safety Standards (IEC 61000, UL, FCC, CCC), Conducted & Radiated Immunity Testing (ESD, Surge), High dv/dt Testing Hardware, Extreme High-Temperature Testing (125°C Tj).
-- **Test Automation & Software:** Python 3 Automation Libraries, GUI Development, Test Automation (GPIB, VISA, Instrument Control), C/C++, MATLAB.
+- **Test Automation & Software:** Python 3 Automation Libraries, GUI Development, Automated Multi-Instrument Testing Across 20+ IC Product Families, Test Automation (GPIB, VISA, Instrument Control), C/C++, MATLAB.
 - **Embedded & Digital Power Control:** Microcontrollers (MCUs), Digital Signal Processors (DSPs), Bluetooth Low Energy (BLE) Protocols, Nordic, Microchip.
 
 ---
@@ -64,7 +64,7 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 ### **Power Integrations Netherlands B.V. (Philippine Branch)** — Pasig City, Metro Manila
 **Applications Evaluation Engineer** | *January 2020 – March 2022*
 
-- Executed fabrication-assembly transfer evaluations and hardware validation for over 20 power IC products across InnoSwitch3, TinySwitch, and LYTSwitch families.
+- Executed fabrication-assembly transfer evaluations, hardware validation, and automated multi-instrument testing across 20+ IC product families (InnoSwitch3, TinySwitch, and LYTSwitch families).
 - Developed Python 3 automation scripts and custom GUI applications for GPIB/VISA instrument control (AC sources, electronic loads, oscilloscopes, power meters), improving test efficiency and data accuracy.
 - Evaluated marketing sample boards to fulfill urgent customer requests, verifying compliance with IEC 61000 conducted immunity, surge, and ESD standards.
 - Performed detailed teardown analyses of competitor power adapters for internal benchmarking.

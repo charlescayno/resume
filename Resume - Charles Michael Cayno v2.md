@@ -9,7 +9,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Results-driven Senior Power Supply Design Engineer with over 6 years of professional experience in the design, development, simulation, and validation of high-efficiency AC-DC and DC-DC power supply systems. Recognized expert in switch-mode power supply (SMPS) topologies, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Proven capability in digital power control, test automation with Python, global project execution (including US engineering assignment), conference paper authoring (PCIM), and product qualification under global regulatory standards (IEC, UL, FCC, CCC). Skilled in leading engineering projects, cross-functional collaboration, and mentoring technical teams.
+Results-driven Senior Power Supply Design Engineer with over 6 years of professional experience in the design, development, simulation, and validation of high-efficiency AC-DC and DC-DC power supply systems. Recognized expert in switch-mode power supply (SMPS) topologies, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Proven capability in digital power control, automated multi-instrument testing across 20+ IC product families with Python, global project execution (including US engineering assignment), conference paper authoring (PCIM), and product qualification under global regulatory standards (IEC, UL, FCC, CCC). Skilled in leading engineering projects, cross-functional collaboration, and mentoring technical teams.
 
 ---
 
@@ -93,8 +93,7 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 #### **Applications Evaluation Engineer**  
 *Jan 2020 – Mar 2022*
 
-- Conducted quick-turn and comprehensive fabrication transfer evaluations for multiple generations of Power Integrations’ ICs, including InnoSwitch3 and TinySwitch families.
-- Designed and evaluated application boards using Power Integrations’ high-voltage ICs and stand-alone controllers for off-line power conversion in chargers/adapters, LED drivers, and smart home appliances.
+- Executed fabrication-assembly transfer evaluations, hardware validation, and automated multi-instrument testing across 20+ IC product families (InnoSwitch3, TinySwitch, and LYTSwitch families).
 - Developed Python 3 automation scripts and libraries to streamline bench testing using GPIB interfaces and automated test equipment (Chroma, Keysight), significantly improving evaluation efficiency.
 - Implemented automated control of multiple lab instruments including AC sources, electronic loads, power meters, oscilloscopes, DC power supplies, signal generators, and relay boards.
 - Developed a custom automation software GUI to streamline testing and evaluation.
@@ -132,12 +131,12 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 - **Power Electronics:** AC-DC, DC-DC, Inverters, Rectifiers, SMPS, Isolated & Non-Isolated Converters, GaN / PowiGaN, SiC (Silicon Carbide), 1700V High-Voltage Systems
 - **Circuit Design & Simulation:** SIMetrix, SIMPLIS, LTspice, MATLAB, Simulink
 - **Magnetics Design:** Transformers (PQ, EFD, EE, Ferrite Core Selection), Inductors, Litz Winding Techniques, Ferrite Material 43 Suppression
-- **PCB Design & Layout:** Altium Designer 26, OrCAD Allegro, KiCad
+- **PCB Layout & Tools:** Altium Designer 26, OrCAD Allegro, KiCad
 - **Embedded Power Control:** Digital Power Controllers, DSPs, Microcontrollers (MCUs)
 - **Thermal Management & Testing:** Extreme High-Temperature Testing (125°C Tj, 95°C Ambient), Heat Sink Design, Power Dissipation Analysis
 - **Compliance & Testing:** EMI/EMC Compliance (CISPR 22, FCC), Safety Standards (UL, IEC, ISO, CCC), High dv/dt Testing Hardware
 - **Prototyping & Debugging:** Oscilloscopes, Spectrum Analyzers, Load Testing, Root-Cause Failure Analysis (RCA)
-- **Software & Scripting:** Python 3, MATLAB, C/C++ (for embedded power applications)
+- **Software & Scripting:** Python 3 (Automated Multi-Instrument Testing across 20+ IC Product Families), MATLAB, C/C++ (for embedded power applications)
 - **Testing & Validation:** Power supply characterization, failure analysis, regulatory testing
 - **Microcontroller-Based Power Control:** Embedded control for digital power supplies (Nordic, Microchip, BLE protocols)
 - **Project Leadership:** Team mentoring, cross-functional collaboration
