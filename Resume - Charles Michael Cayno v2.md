@@ -155,10 +155,3 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 **University of the Philippines, Diliman** — *Quezon City, Metro Manila*  
 **Bachelor of Science in Electronics and Communications Engineering** (*Aug 2014 – Jun 2019*)  
 - **Highlights:** Design and Implementation of an Integrated Motor Drive and Battery Charger with a Bridgeless Boost PFC Converter; Shell Eco-Marathon Asia 2018 & 2019
-
----
-
-## REFERENCES
-
-- **Donnie Rey Saturno** — Senior Applications Engineering Manager ([DonnieRey.Saturno@power.com](mailto:DonnieRey.Saturno@power.com))
-- **Marvin Ralph Bautista** — Staff Engineer, New Product Definition ([ralph.bautista@power.com](mailto:ralph.bautista@power.com))
