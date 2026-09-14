@@ -28,9 +28,9 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 - Author technical papers, collaborate with cross-functional engineering teams, and mentor junior engineers in power electronics design and testing.
 
 **Projects Accomplished:**
-- **TST-326 / LHBA-155** *(215 W InnoMux2-1700V Server Auxiliary Power Supply)*
-  - Architected and evaluated a 215 W peak (170 W continuous) 48 V / 3.55 A high-voltage power supply for server auxiliary applications operating from 700 V–860 V DC input using InnoMux2 1700V (`IMX2353F`).
-  - Designed custom PQ32/20 magnetics, executed secondary IC trim verification (`IMX2353F-EW2E`), developed specialized interposer test hardware with 3D-printed mounting fixtures, and built automated Python ATE test routines.
+- **High-Voltage Server Auxiliary Power Supply** *(215 W / 1700 V Integrated Switcher Architecture)*
+  - Architected and evaluated a 215 W peak (170 W continuous) 48 V / 3.55 A auxiliary power supply for data center and server power delivery architectures operating from a 700 V–860 V DC bus using a 1700V integrated power switcher IC.
+  - Designed custom PQ32/20 power magnetics, executed custom secondary IC trim configuration, developed specialized interposer test hardware with 3D-printed forced-air thermal mounting, and built automated Python ATE test routines for efficiency and transient characterization.
 - **DER-1113** *(80 W High-Efficiency Flyback Converter using TopSwitchGaN with PQ 35/35 Core)*
   - Designed and optimized an 80 W power supply achieving **91.78% efficiency** at 230 VAC using custom PQ 35/35 litz wire magnetics.
   - Investigated and resolved TopSwitchGaN IC overvoltage damage caused by TVS breakdown voltage mismatch during AC cycling.
@@ -115,7 +115,7 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 
 - Supported Low Power Team projects by collecting test data and troubleshooting faulty circuit boards.
 - Learned EMI optimization techniques from senior engineers, applying them to improve circuit performance and regulatory compliance.
-- Designed and developed a flyback power supply as a capstone project using TinySwitch technology (schematic capture, PCB design using OrCAD Allegro, magnetics construction, board assembly, and system testing).
+- Designed and developed a flyback power supply as a capstone project using TinySwitch technology (schematic capture, PCB layout using OrCAD Allegro, magnetics construction, board assembly, and system testing).
 
 ---
 
