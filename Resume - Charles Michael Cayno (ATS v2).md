@@ -29,13 +29,14 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 ### **Power Integrations Netherlands B.V. (Philippine Branch)** — Pasig City, Metro Manila
 **Senior Power Supply Design Engineer** | *April 2024 – Present*
 
-- Lead the end-to-end design, topology selection, and hardware development of high-efficiency AC-DC and DC-DC power supply systems for smart home automation, high-voltage industrial, and smart lighting applications.
+- Lead the end-to-end design, topology selection, and hardware development of high-efficiency AC-DC and DC-DC power supply systems for smart home automation, high-voltage industrial, server auxiliary, and smart lighting applications.
 - Architect high-power-density power supply designs featuring GaN / PowiGaN, SiC (Silicon Carbide), and 1700V InnoMux2 technologies with optimized thermal management and low EMI.
 - Execute detailed magnetic design (PQ, EFD, EE cores), thermal dissipation calculations, and PCB layout reviews to comply with international safety, high dv/dt, and EMC standards.
 - Completed a specialized US engineering assignment (May – June 2026) collaborating with US lead engineering teams on high-temperature SilentBridge power platforms.
 - Author technical papers, collaborate with cross-functional engineering teams, and mentor junior engineers in power electronics design and testing.
 
 **Selected Projects:**
+- **TST-326 / LHBA-155 (215W InnoMux2-1700V Server Auxiliary Power Supply):** Architected and evaluated a 215W peak (170W continuous) 48V/3.55A high-voltage power supply for server auxiliary applications operating from 700V–860V DC input using InnoMux2 1700V (IMX2353F). Designed custom PQ32/20 magnetics, executed secondary IC trim verification (IMX2353F-EW2E), developed specialized interposer test hardware with 3D-printed mounting fixtures, and built automated Python ATE test routines.
 - **DER-1113 (80W Flyback Converter using TopSwitchGaN & PQ 35/35 Core):** Designed an 80W power supply achieving 91.78% peak efficiency at 230 VAC using custom PQ 35/35 litz wire magnetics. Solved TopSwitchGaN IC overvoltage damage caused by TVS breakdown voltage mismatch. Optimized radiated EMI using Material 43 ferrite suppression; delivered functional marketing samples for global customer evaluation.
 - **DER-1081 (50W Emergency Smart Lighting Supply):** Developed a slim-profile (9.78 in x 1.06 in x 0.63 in) 50W flyback power supply with 1 CV and 1 CC output, high power factor (>0.904), low THD (<9.09%), and 1-wire PWM dimming. Resolved complex startup faults and VDS voltage stress issues; delivered validated Rev B & C marketing samples to key stakeholders.
 - **0195b — SilentBridge High-Temp Testing & RCA (US Business Trip):** Stationed in the US (May – June 2026) collaborating with lead engineers (Thomas & Jared) on the SilentBridge high-power platform. Conducted extreme high-temperature stress testing (125°C Tj, 95°C ambient) and root-cause failure analysis (RCA) on shorted LV/HV FETs.

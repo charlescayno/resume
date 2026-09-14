@@ -21,13 +21,16 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 #### **Senior Power Supply Design Engineer**  
 *Apr 2024 – Present*
 
-- Lead the design, topology selection, and hardware development of high-efficiency AC-DC and DC-DC power supply systems for smart home automation, high-voltage industrial, and smart lighting applications.
+- Lead the design, topology selection, and hardware development of high-efficiency AC-DC and DC-DC power supply systems for smart home automation, high-voltage industrial, server auxiliary, and smart lighting applications.
 - Architect high-power-density power supply designs featuring GaN / PowiGaN, SiC (Silicon Carbide), and 1700V InnoMux2 technologies with optimized thermal management and low EMI.
 - Execute custom magnetic design (PQ, EFD, EE cores), thermal stress calculations, and PCB layout reviews to comply with international safety, high dv/dt, and EMC standards.
 - Completed a specialized US engineering assignment (May – June 2026) collaborating with US lead engineering teams on high-temperature SilentBridge power platforms.
 - Author technical papers, collaborate with cross-functional engineering teams, and mentor junior engineers in power electronics design and testing.
 
 **Projects Accomplished:**
+- **TST-326 / LHBA-155** *(215 W InnoMux2-1700V Server Auxiliary Power Supply)*
+  - Architected and evaluated a 215 W peak (170 W continuous) 48 V / 3.55 A high-voltage power supply for server auxiliary applications operating from 700 V–860 V DC input using InnoMux2 1700V (`IMX2353F`).
+  - Designed custom PQ32/20 magnetics, executed secondary IC trim verification (`IMX2353F-EW2E`), developed specialized interposer test hardware with 3D-printed mounting fixtures, and built automated Python ATE test routines.
 - **DER-1113** *(80 W High-Efficiency Flyback Converter using TopSwitchGaN with PQ 35/35 Core)*
   - Designed and optimized an 80 W power supply achieving **91.78% efficiency** at 230 VAC using custom PQ 35/35 litz wire magnetics.
   - Investigated and resolved TopSwitchGaN IC overvoltage damage caused by TVS breakdown voltage mismatch during AC cycling.
@@ -140,18 +143,3 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 - **Testing & Validation:** Power supply characterization, failure analysis, regulatory testing
 - **Microcontroller-Based Power Control:** Embedded control for digital power supplies (Nordic, Microchip, BLE protocols)
 - **Project Leadership:** Team mentoring, cross-functional collaboration
-
----
-
-## LICENSES AND CERTIFICATIONS
-
-- **Licensed Electronics Engineer**, Philippine Professional Regulation Commission, *November 2019*
-- **Licensed Electronics Technician**, Philippine Professional Regulation Commission, *November 2019*
-
----
-
-## EDUCATION
-
-**University of the Philippines, Diliman** — *Quezon City, Metro Manila*  
-**Bachelor of Science in Electronics and Communications Engineering** (*Aug 2014 – Jun 2019*)  
-- **Highlights:** Design and Implementation of an Integrated Motor Drive and Battery Charger with a Bridgeless Boost PFC Converter; Shell Eco-Marathon Asia 2018 & 2019
