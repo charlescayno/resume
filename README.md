@@ -6,10 +6,9 @@ Welcome to my official resume repository! I am a **Senior Power Supply Design En
 
 ## 📌 Repository Contents
 
-- [📄 **Standard Resume v2 (Markdown)**](Resume%20-%20Charles%20Michael%20Cayno%20v2.md) — Comprehensive resume updated with 2026 project deliverables, US engineering assignment, and APEC 2027 proposal.
-- [📄 **ATS-Optimized Resume v2 (Markdown)**](Resume%20-%20Charles%20Michael%20Cayno%20%28ATS%20v2%29.md) — ATS-formatted Version 2 resume.
-- [📄 **ATS-Optimized Resume v2 (Word DOCX)**](Resume%20-%20Charles%20Michael%20Cayno%20%28ATS%20v2%29.docx) — Word document format with clean ATS formatting.
-- [📊 **Resume Evaluation Report**](Resume%20Evaluation%20Report%20-%20Charles%20Michael%20Cayno.md) — Rating report and technical analysis.
+- [📄 **ATS-Optimized Resume (Word DOCX)**](Resume%20-%20Charles%20Michael%20Cayno%20%28ATS%20-%20FINAL%29.docx) — Primary Word document format with clean ATS formatting.
+- [📄 **ATS-Optimized Resume (Markdown)**](Resume%20-%20Charles%20Michael%20Cayno%20%28ATS%20-%20FINAL%29.md) — Primary Markdown format resume.
+- [🌐 **Interactive Online Portfolio**](https://charlescayno.github.io/resume/) — Web preview version of the resume.
 
 ---
 
@@ -24,6 +23,6 @@ Welcome to my official resume repository! I am a **Senior Power Supply Design En
 
 ## 📫 Contact & Links
 
-- **Email:** cfcayno@gmail.com | Charles.Cayno@power.com
+- **Email:** cfcayno@gmail.com
 - **LinkedIn:** [linkedin.com/in/charlescayno](https://www.linkedin.com/in/charlescayno/)
 - **GitHub:** [github.com/charlescayno](https://github.com/charlescayno)
