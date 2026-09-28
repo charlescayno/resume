@@ -1,9 +1,7 @@
-# Charles Michael F. Cayno
+# **CHARLES MICHAEL F. CAYNO**
 
-**Present Address:** 24 Riverside Drive, Riverside Village, Brgy. Sta. Lucia, Pasig City, Metro Manila, Philippines  
-**Email:** cfcayno@gmail.com  
-**Contact Number:** (+63) 968 2671 491  
-**LinkedIn:** [linkedin.com/in/charlescayno](https://www.linkedin.com/in/charlescayno/)  
+Pasig City, Metro Manila, Philippines  |  (+63) 968 2671 491  |  cfcayno@gmail.com
+LinkedIn: https://www.linkedin.com/in/charlescayno/
 
 ---
 
@@ -11,135 +9,77 @@
 
 Results-driven Senior Power Supply Design Engineer with over 6 years of professional experience in the design, development, simulation, and validation of high-efficiency AC-DC and DC-DC power supply systems. Recognized expert in switch-mode power supply (SMPS) topologies, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Proven capability in digital power control, automated multi-instrument testing across 20+ power IC products with Python, global project execution (including US engineering assignment), conference paper authoring (PCIM), and product qualification under global regulatory standards. Skilled in leading engineering projects, cross-functional collaboration, and mentoring technical teams.
 
----
+
+## CORE COMPETENCIES & TECHNICAL SKILLS
+
+- **Power Electronics & Topologies:** AC-DC Converters, DC-DC Converters, Flyback, Buck, Boost, Flyboost, Resonant Converters (LLC), Switch-Mode Power Supplies (SMPS), Power Factor Correction (PFC), Switch Valley-Fill (SVF), Zero-Voltage Switching (ZVS), GaN / PowiGaN Technology, SiC (Silicon Carbide), 1700V High-Voltage Systems, Qi Wireless Charging, USB Power Delivery (USB PD 3.0 / 3.1 EPR).
+- **Circuit Design & Simulation:** SIMetrix, SIMPLIS, LTspice, MATLAB, Simulink, Schematic Capture, Transformer & Inductor Design (PQ, EFD, EE Cores), Ferrite Core Selection, Winding Design.
+- **PCB Layout & Tools:** Altium Designer 26, OrCAD Allegro, KiCad, High-Voltage Layout Design, Creepage & Clearance Compliance, Thermal Layout Optimization.
+- **Compliance & Testing:** EMI/EMC Compliance (CISPR 22 / EN 55022 Class B), Conducted & Radiated Immunity Testing (ESD, Surge), High dv/dt Testing Hardware, Extreme High-Temperature Testing (125°C Tj).
+- **Test Automation & Software:** Python 3 Automation Libraries, GUI Development, Automated Multi-Instrument Testing Across 20+ Power IC Products, Test Automation (GPIB, VISA, Instrument Control), C/C++, MATLAB.
+- **Embedded & Digital Power Control:** Microcontrollers (MCUs), Digital Signal Processors (DSPs), Bluetooth Low Energy (BLE) Protocols, Nordic, Microchip.
 
 ## PROFESSIONAL EXPERIENCE
 
-### **Power Integrations Netherlands B.V. (Philippine Branch)**  
-*Ortigas Center, Pasig City, Metro Manila*
+### **Power Integrations Netherlands B.V. (Philippine Branch)** — Pasig City, Metro Manila
+**Senior Power Supply Design Engineer** | *April 2024 – Present*
 
-#### **Senior Power Supply Design Engineer**  
-*Apr 2024 – Present*
-
-- Lead the design, topology selection, and hardware development of high-efficiency AC-DC and DC-DC power supply systems for smart home automation, high-voltage industrial, server auxiliary, and smart lighting applications.
+- Lead the end-to-end design, topology selection, and hardware development of high-efficiency AC-DC and DC-DC power supply systems for smart home automation, high-voltage industrial, server auxiliary, and smart lighting applications.
 - Architect high-power-density power supply designs featuring GaN / PowiGaN, SiC (Silicon Carbide), and 1700V InnoMux2 technologies with optimized thermal management and low EMI.
-- Execute custom magnetic design (PQ, EFD, EE cores), thermal stress calculations, and PCB layout reviews to comply with international safety, high dv/dt, and EMC standards.
+- Execute detailed magnetic design (PQ, EFD, EE cores), thermal dissipation calculations, and PCB layout reviews to comply with international safety, high dv/dt, and EMC standards.
 - Execute specialized US engineering assignments (May – June 2026) collaborating with US lead engineering teams on high-temperature SilentBridge power platforms.
 - Author technical papers, collaborate with cross-functional engineering teams, and mentor junior engineers in power electronics design and testing.
+- **High-Voltage Server Auxiliary Power Supply (215W / 1700V Integrated Switcher Architecture) [Ongoing Design]:** Architecting and prototyping a 215W peak (170W continuous) 48V/3.55A auxiliary power supply for data center and server power delivery architectures operating from a 700V–860V DC bus using a 1700V integrated power switcher IC. Designing custom PQ32/20 power magnetics, executing custom secondary IC trim configuration, developing specialized interposer test hardware with 3D-printed forced-air thermal mounting, and building automated Python ATE test routines.
+- **DER-1113 (80W Flyback Converter using TopSwitchGaN & PQ 35/35 Core):** Designed an 80W power supply achieving 91.78% peak efficiency at 230 VAC using custom PQ 35/35 litz wire magnetics. Solved TopSwitchGaN IC overvoltage damage caused by TVS breakdown voltage mismatch. Optimized radiated EMI using Material 43 ferrite suppression; delivered functional marketing samples for global customer evaluation.
+- **DER-1081 (50W Emergency Smart Lighting Supply):** Developed a slim-profile (9.78 in x 1.06 in x 0.63 in) 50W flyback power supply with 1 CV and 1 CC output, high power factor (>0.904), low THD (<9.09%), and 1-wire PWM dimming. Resolved complex startup faults and VDS voltage stress issues; delivered validated Rev B & C marketing samples to key stakeholders.
+- **0195b — SilentBridge High-Temp Testing & RCA (US Business Trip):** Stationed in the US (May – June 2026) collaborating with lead engineers (Thomas & Jared) on the SilentBridge high-power platform. Conducted extreme high-temperature stress testing (125°C Tj, 95°C ambient) and root-cause failure analysis (RCA) on shorted LV/HV FETs.
+- **InnoMux2-1700V & Inno3-SiC High dv/dt Testing Hardware:** Evaluated 1700V InnoMux2 max power capabilities for utility grid and industrial applications. Designed specialized high dv/dt test hardware for Silicon Carbide (InnoSwitch3-SiC F package) and evaluated automotive InnoSwitch3-AQ dV/dt characteristics during DOPL.
+- **DER-1050 (82W Smart Clothes-Dryer Rack Flyback Supply):** Designed an 82W flyback converter with 2 CV and 1 CC output using InnoMux2-EP and Switch Valley-Fill (SVF) passive PFC. Featured at PCIM 2025.
+### **Power Integrations Netherlands B.V. (Philippine Branch)** — Pasig City, Metro Manila
+**Power Supply Design Engineer** | *March 2022 – April 2024*
 
-**Projects Accomplished:**
-- **High-Voltage Server Auxiliary Power Supply** *(215 W / 1700 V Integrated Switcher Architecture — Ongoing Design)*
-  - Currently architecting and prototyping a 215 W peak (170 W continuous) 48 V / 3.55 A auxiliary power supply for data center and server power delivery architectures operating from a 700 V–860 V DC bus using a 1700V integrated power switcher IC.
-  - Designing custom PQ32/20 power magnetics, executing custom secondary IC trim configuration, developing specialized interposer test hardware with 3D-printed forced-air thermal mounting, and building automated Python ATE test routines for efficiency and transient characterization.
-- **DER-1113** *(80 W High-Efficiency Flyback Converter using TopSwitchGaN with PQ 35/35 Core)*
-  - Designed and optimized an 80 W power supply achieving **91.78% efficiency** at 230 VAC using custom PQ 35/35 litz wire magnetics.
-  - Investigated and resolved TopSwitchGaN IC overvoltage damage caused by TVS breakdown voltage mismatch during AC cycling.
-  - Executed radiated EMI optimization using Material 43 ferrite suppression; built and delivered functional marketing sample units for global customer evaluation.
-- **DER-1081** *(50 W Slim-Profile Emergency Smart Lighting Power Supply using InnoMux2-EP)*
-  - Developed a slim-profile (9.78 in × 1.06 in × 0.63 in) emergency smart lighting power supply featuring 1 CV & 1 CC outputs, 1-wire filtered PWM dimming, high power factor (>0.904), low THD (<9.09%), and >88.6% efficiency.
-  - Resolved complex startup faults and VDS voltage stress issues; delivered validated Rev B & C marketing samples to key stakeholders.
-- **0195b — SilentBridge High-Temperature Testing & RCA** *(US Engineering Assignment: May – June 2026)*
-  - Stationed in the US collaborating with lead engineers (Thomas & Jared) on the SilentBridge high-power platform.
-  - Conducted extreme high-temperature stress testing (125°C Tj, 95°C ambient) and performed root-cause failure analysis (RCA) on shorted LV/HV FETs to improve system robustness.
-- **InnoMux2-1700V & Inno3-SiC High dv/dt Testing Hardware:**
-  - Evaluated max power capability for 1700V InnoMux2 architectures targeted at high-voltage industrial and utility grid power conversion.
-  - Designed and validated specialized high dv/dt test hardware for Silicon Carbide (**InnoSwitch3-SiC F package**) and evaluated automotive **InnoSwitch3-AQ** dV/dt characteristics during DOPL.
-- **DER-1050** *(82 W Flyback Power Supply for Smart Clothes-Dryer Rack with 2 CV & 1 CC Outputs Using InnoMux2-EP)*
-  - Featured at **PCIM 2025**. First design incorporating Switch Valley-Fill (SVF) passive PFC on InnoMux-2 to achieve low THD and high power factor for China CCC lighting compliance.
-
----
-
-#### **Power Supply Design Engineer**  
-*Mar 2022 – Apr 2024*
-
-- Designed and implemented high-power-density DC-DC converters for lighting and smart-home applications.
-- Conducted failure analysis and root cause investigation for power supply / LED driver failures in the field.
-- Performed extensive evaluations and worked closely with new product design engineers to flush out potential bugs, causes of failures, and corner cases.
-- Developed transformer and inductor designs optimized for high-frequency operation.
-- Worked with PCB designers to ensure proper routing, creepage, and clearance for high-voltage circuits.
-- Developed firmware for digitally controlled power supplies using DSPs and microcontrollers.
-
-**Projects Accomplished:**
-- **DER-1024** *(65 W Dual USB-C Shared Capacity Ports with Current Sharing Using InnoSwitch™3-Pro PowiGaN™ INN3379C-H315)*
-  - Showcased at APEC 2024.
-  - Designed a mechanically challenging build and PCB layout including thermal efficiency optimization.
-  - Hands-on experience with USB PD protocol implementation on Injoinic-based systems, focusing on hardware-software integration with InnoSwitch3-Pro.
-- **DER-1015** *(140 W USB PD 3.1 / EPR Capable Power Supply with 280 W Peak Power using InnoSwitch5-Pro + HiperPFS-5)*
-  - Provided technical support at PI HQ (Mark Manango) for optimizing conducted EMI, peak power, and evaluating SR ZVS vs. QR mode.
-  - Configured and interfaced USB PD using Injoinic ICs, integrating with InnoSwitch5-Pro.
-- **DER-867** *(2-Wire BLE Smart Wall Switch using LinkSwitch-TNZ with Relay Zero-Voltage Switching and Automatic Set/Reset Time Calibration)*
-  - Analyzed software algorithm from legacy design and optimized LinkSwitch-TNZ circuit.
-  - Created an auto-calibration algorithm to time relay turn-on/off at zero crossing for inrush current prevention, allowing automatic calibration across various relay models.
-  - Rapidly learned coded firmware needed for the design, including BLE protocols with no prior experience.
-- **LYTSwitch-8 Application Evaluation**
-  - Demonstrated thorough and methodical evaluation for new product ICs, identifying key capabilities and limitations.
-  - Provided technical support to customer activities including Steinel and Nestle.
-- **DER-727** *(75 W 2-Stage PFC Boost and Isolated Flyback Dimmable LED Ballast Using HiperPFS®-5 PFS5173F and LYTSwitch®-6 PowiGaN®-Based LYT6078C)*
-  - Achieved top dimming performance using LYTSwitch-6 by optimizing the dimming circuit to enable <1% dimming with no shimmer.
-- **DER-999** *(PIHi - High Power Wireless Charger using HiperLCS-2)*
-  - Took over high-power wireless charger project from previous Staff Engineer overseeing the project.
-  - Implemented protection features through microcontroller programming including line transient and AC cycling.
-  - Created a system block diagram for team comprehension of project complexity.
-  - Implemented comprehensive automated testing and telemetry for software/hardware development and debugging.
-  - Investigated competitor implementation of Foreign Object Detection (FOD) handling.
-  - Set up firmware repository for this project.
-  - Designed and performed various Foreign Object Detection (FOD) evaluations.
-  - Gained familiarity with Qi wireless charging standards and optimized resonant tank.
-- **Additional Contributions:**
-  - Automated Audible Noise Test Measurement in PH Apps Lab.
-  - Delivered DER-867 marketing sample demo box to showcase to customers.
-  - Provided support to Amazon by optimizing audible noise and efficiency of a 30 W prototype with 120 W peak power solution.
-  - Authored an Apps Flash for Applications Engineering: *Triggering AR at 30V using X-pin (TOPSwitch-JX Apps Flash - Apps Flash 116)*.
-
----
-
-#### **Applications Evaluation Engineer**  
-*Jan 2020 – Mar 2022*
+- Designed high-power-density DC-DC power converters and LED drivers; performed root-cause failure analysis on field returns and prototype units.
+- Evaluated early-stage power IC products, identifying corner-case limitations and operational boundaries in coordination with IC design teams.
+- Designed custom high-frequency transformers and inductors tailored to target electrical and thermal requirements.
+- Developed embedded C firmware for microcontroller-based digital power supply controls and communication protocols.
+- **DER-1024 (65W Dual USB-C Power Supply):** Designed a 65W dual USB-C shared capacity power supply with current sharing using InnoSwitch3-Pro PowiGaN and Injoinic USB PD controllers. Showcased design at APEC 2024.
+- **DER-1015 (140W USB PD 3.1 / EPR Power Supply):** Provided technical leadership for a 140W (280W peak power) USB PD 3.1 supply using InnoSwitch5-Pro and HiperPFS-5, optimizing conducted EMI and synchronous rectification ZVS operation.
+- **DER-867 (2-Wire BLE Smart Wall Switch):** Developed a smart wall switch using LinkSwitch-TNZ with an automated relay Zero-Voltage Switching (ZVS) timing calibration algorithm to eliminate inrush current. Integrated BLE protocol firmware.
+- **DER-727 (75W 2-Stage Dimmable LED Ballast):** Optimized dimming circuitry using LYTSwitch-6 PowiGaN and HiperPFS-5, enabling smooth <1% dimming without shimmer.
+- **DER-999 (High-Power Wireless Charger):** Led hardware/software development for a high-power wireless charger utilizing HiperLCS-2; implemented Foreign Object Detection (FOD), Qi wireless standard compliance, and automated telemetry.
+### **Power Integrations Netherlands B.V. (Philippine Branch)** — Pasig City, Metro Manila
+**Applications Evaluation Engineer** | *January 2020 – March 2022*
 
 - Executed fabrication-assembly transfer evaluations, hardware validation, and automated multi-instrument testing across 20+ power IC products (spanning InnoSwitch, TinySwitch, LinkSwitch, and LYTSwitch families).
-- Developed Python 3 automation scripts and libraries to streamline bench testing using GPIB interfaces and automated test equipment (Chroma, Keysight), significantly improving evaluation efficiency.
-- Implemented automated control of multiple lab instruments including AC sources, electronic loads, power meters, oscilloscopes, DC power supplies, signal generators, and relay boards.
-- Developed a custom automation software GUI to streamline testing and evaluation.
-- Evaluated and validated marketing sample boards to address urgent customer requests, ensuring performance and reliability standards were met.
-- Successfully executed fabrication-assembly transfer evaluations and applications testing for over 20 IC products across multiple product families.
-- Ensured compliance of power supply boards with regulatory standards such as IEC 61000 for Conducted Immunity Tests (ESD, Surge, Conducted EMI).
-- Designed, assembled, and optimized magnetic components for power supply designs tailored to specific electrical and thermal targets.
-- Conducted comprehensive teardown analysis of competitor USB Power Delivery (PD) adapters for internal benchmarking and product development.
-- Delivered technical support to Field Application Engineers (FAEs) across regions (India, China, Taiwan) and provided direct assistance to key customers such as Tridonic.
-- Led and facilitated PSU 101 Lab training sessions for FAEs.
+- Developed Python 3 automation scripts and custom GUI applications for GPIB/VISA instrument control (AC sources, electronic loads, oscilloscopes, power meters), improving test efficiency and data accuracy.
+- Evaluated marketing sample boards to fulfill urgent customer requests, verifying compliance with IEC 61000 conducted immunity, surge, and ESD standards.
+- Performed detailed teardown analyses of competitor power adapters for internal benchmarking.
+- Provided technical field support to regional Field Application Engineers (FAEs) across India, China, and Taiwan; facilitated PSU 101 technical training workshops.
+- **DER-916 (65W Dual USB-C Power Supply):** Evaluated dual-port USB PD 3.0 power supply utilizing IP2726 controller; verified compliance with CISPR 22 Class B / EN 55022 Class B EMI standards.
+- **DER-945 (75W Dimmable LED Driver):** Designed and tested a 75W 3-in-1 dimmable LED driver (100–300 VAC input, 24V–46V output) using LYTSwitch-8 in Flyboost topology; presented at FAEC 2022.
+### **Power Integrations Netherlands B.V. (Philippine Branch)** — Pasig City, Metro Manila
+**Applications Engineering Intern (Low Power Team)** | *June 2018 – July 2018*
 
----
+- Supported low-power power supply evaluation projects through data collection, circuit troubleshooting, and EMI mitigation.
+- Designed, built, and tested an offline flyback power supply capstone project using TinySwitch technology, including OrCAD schematic capture, PCB layout, transformer winding, and bench testing.
 
-#### **Intern, Low Power Team (Applications Engineering)**  
-*Jun 2018 – Jul 2018*
+## EDUCATION
 
-- Supported Low Power Team projects by collecting test data and troubleshooting faulty circuit boards.
-- Learned EMI optimization techniques from senior engineers, applying them to improve circuit performance and regulatory compliance.
-- Designed and developed a flyback power supply as a capstone project using TinySwitch technology (schematic capture, PCB layout using OrCAD Allegro, magnetics construction, board assembly, and system testing).
+### **University of the Philippines Diliman** — Quezon City, Metro Manila
+**Bachelor of Science in Electronics and Communications Engineering** | *August 2014 – June 2019*
 
----
+- **Capstone Project:** Design and Implementation of an Integrated Motor Drive and Battery Charger with a Bridgeless Boost PFC Converter.
+- **Extracurricular:** Shell Eco-Marathon Asia Participant (2018 & 2019).
 
-## TRAININGS
+## LICENSES & CERTIFICATIONS
 
-- DOPL and FPGA training
+- **Licensed Electronics Engineer** — Philippine Professional Regulation Commission (PRC), Nov 2019
+- **Licensed Electronics Technician** — Philippine Professional Regulation Commission (PRC), Nov 2019
+
+## TECHNICAL TRAININGS
+
 - Safety Guidelines for High Voltage Systems
 - Product Safety Basic Concepts & General Requirements
 - Electrical Safety Isolation
 - Safety Lab Protocols and Equipment Familiarization
-
----
-
-## TECHNICAL SKILLS
-
-- **Power Electronics:** AC-DC, DC-DC, Inverters, Rectifiers, SMPS, Isolated & Non-Isolated Converters, GaN / PowiGaN, SiC (Silicon Carbide), 1700V High-Voltage Systems
-- **Circuit Design & Simulation:** SIMetrix, SIMPLIS, LTspice, MATLAB, Simulink
-- **Magnetics Design:** Transformers (PQ, EFD, EE, Ferrite Core Selection), Inductors, Litz Winding Techniques, Ferrite Material 43 Suppression
-- **PCB Layout & Tools:** Altium Designer 26, OrCAD Allegro, KiCad
-- **Embedded Power Control:** Digital Power Controllers, DSPs, Microcontrollers (MCUs)
-- **Thermal Management & Testing:** Extreme High-Temperature Testing (125°C Tj, 95°C Ambient), Heat Sink Design, Power Dissipation Analysis
-- **Compliance & Testing:** EMI/EMC Compliance (CISPR 22, FCC), Safety Standards (UL, IEC, ISO, CCC), High dv/dt Testing Hardware
-- **Prototyping & Debugging:** Oscilloscopes, Spectrum Analyzers, Load Testing, Root-Cause Failure Analysis (RCA)
-- **Software & Scripting:** Python 3 (Automated Multi-Instrument Testing across 20+ Power IC Products), MATLAB, C/C++ (for embedded power applications)
-- **Testing & Validation:** Power supply characterization, failure analysis, regulatory testing
-- **Microcontroller-Based Power Control:** Embedded control for digital power supplies (Nordic, Microchip, BLE protocols)
-- **Project Leadership:** Team mentoring, cross-functional collaboration
+- DOPL and FPGA Training
