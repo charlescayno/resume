@@ -9,7 +9,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Results-driven Senior Power Supply Design Engineer with over 6 years of professional experience in the design, development, simulation, and validation of high-efficiency AC-DC and DC-DC power supply systems. Recognized expert in switch-mode power supply (SMPS) topologies, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Proven capability in digital power control, automated multi-instrument testing across 20+ IC product families with Python, global project execution (including US engineering assignment), conference paper authoring (PCIM), and product qualification under global regulatory standards. Skilled in leading engineering projects, cross-functional collaboration, and mentoring technical teams.
+Results-driven Senior Power Supply Design Engineer with over 6 years of professional experience in the design, development, simulation, and validation of high-efficiency AC-DC and DC-DC power supply systems. Recognized expert in switch-mode power supply (SMPS) topologies, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Proven capability in digital power control, automated multi-instrument testing across 20+ power IC products with Python, global project execution (including US engineering assignment), conference paper authoring (PCIM), and product qualification under global regulatory standards. Skilled in leading engineering projects, cross-functional collaboration, and mentoring technical teams.
 
 ---
 
@@ -96,7 +96,7 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 #### **Applications Evaluation Engineer**  
 *Jan 2020 – Mar 2022*
 
-- Executed fabrication-assembly transfer evaluations, hardware validation, and automated multi-instrument testing across 20+ IC product families (InnoSwitch3, TinySwitch, and LYTSwitch families).
+- Executed fabrication-assembly transfer evaluations, hardware validation, and automated multi-instrument testing across 20+ power IC products (spanning InnoSwitch, TinySwitch, LinkSwitch, and LYTSwitch families).
 - Developed Python 3 automation scripts and libraries to streamline bench testing using GPIB interfaces and automated test equipment (Chroma, Keysight), significantly improving evaluation efficiency.
 - Implemented automated control of multiple lab instruments including AC sources, electronic loads, power meters, oscilloscopes, DC power supplies, signal generators, and relay boards.
 - Developed a custom automation software GUI to streamline testing and evaluation.
@@ -139,7 +139,7 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 - **Thermal Management & Testing:** Extreme High-Temperature Testing (125°C Tj, 95°C Ambient), Heat Sink Design, Power Dissipation Analysis
 - **Compliance & Testing:** EMI/EMC Compliance (CISPR 22, FCC), Safety Standards (UL, IEC, ISO, CCC), High dv/dt Testing Hardware
 - **Prototyping & Debugging:** Oscilloscopes, Spectrum Analyzers, Load Testing, Root-Cause Failure Analysis (RCA)
-- **Software & Scripting:** Python 3 (Automated Multi-Instrument Testing across 20+ IC Product Families), MATLAB, C/C++ (for embedded power applications)
+- **Software & Scripting:** Python 3 (Automated Multi-Instrument Testing across 20+ Power IC Products), MATLAB, C/C++ (for embedded power applications)
 - **Testing & Validation:** Power supply characterization, failure analysis, regulatory testing
 - **Microcontroller-Based Power Control:** Embedded control for digital power supplies (Nordic, Microchip, BLE protocols)
 - **Project Leadership:** Team mentoring, cross-functional collaboration
