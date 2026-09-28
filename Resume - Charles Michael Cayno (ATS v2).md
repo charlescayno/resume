@@ -32,16 +32,16 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 - Lead the end-to-end design, topology selection, and hardware development of high-efficiency AC-DC and DC-DC power supply systems for smart home automation, high-voltage industrial, server auxiliary, and smart lighting applications.
 - Architect high-power-density power supply designs featuring GaN / PowiGaN, SiC (Silicon Carbide), and 1700V InnoMux2 technologies with optimized thermal management and low EMI.
 - Execute detailed magnetic design (PQ, EFD, EE cores), thermal dissipation calculations, and PCB layout reviews to comply with international safety, high dv/dt, and EMC standards.
-- Completed a specialized US engineering assignment (May – June 2026) collaborating with US lead engineering teams on high-temperature SilentBridge power platforms.
+- Execute specialized US engineering assignments (May – June 2026) collaborating with US lead engineering teams on high-temperature SilentBridge power platforms.
 - Author technical papers, collaborate with cross-functional engineering teams, and mentor junior engineers in power electronics design and testing.
 
 **Selected Projects:**
-- **High-Voltage Server Auxiliary Power Supply (215W / 1700V Integrated Switcher Architecture) [Ongoing Design]:** Architecting and prototyping a 215W peak (170W continuous) 48V/3.55A auxiliary power supply for data center and server power delivery architectures operating from a 700V–860V DC bus using a 1700V integrated power switcher IC. Designed custom PQ32/20 power magnetics, executed custom secondary IC trim configuration, developing specialized interposer test hardware with 3D-printed forced-air thermal mounting, and building automated Python ATE test routines.
+- **High-Voltage Server Auxiliary Power Supply (215W / 1700V Integrated Switcher Architecture) [Ongoing Design]:** Architecting and prototyping a 215W peak (170W continuous) 48V/3.55A auxiliary power supply for data center and server power delivery architectures operating from a 700V–860V DC bus using a 1700V integrated power switcher IC. Designing custom PQ32/20 power magnetics, executing custom secondary IC trim configuration, developing specialized interposer test hardware with 3D-printed forced-air thermal mounting, and building automated Python ATE test routines.
 - **DER-1113 (80W Flyback Converter using TopSwitchGaN & PQ 35/35 Core):** Designed an 80W power supply achieving 91.78% peak efficiency at 230 VAC using custom PQ 35/35 litz wire magnetics. Solved TopSwitchGaN IC overvoltage damage caused by TVS breakdown voltage mismatch. Optimized radiated EMI using Material 43 ferrite suppression; delivered functional marketing samples for global customer evaluation.
 - **DER-1081 (50W Emergency Smart Lighting Supply):** Developed a slim-profile (9.78 in x 1.06 in x 0.63 in) 50W flyback power supply with 1 CV and 1 CC output, high power factor (>0.904), low THD (<9.09%), and 1-wire PWM dimming. Resolved complex startup faults and VDS voltage stress issues; delivered validated Rev B & C marketing samples to key stakeholders.
 - **0195b — SilentBridge High-Temp Testing & RCA (US Business Trip):** Stationed in the US (May – June 2026) collaborating with lead engineers (Thomas & Jared) on the SilentBridge high-power platform. Conducted extreme high-temperature stress testing (125°C Tj, 95°C ambient) and root-cause failure analysis (RCA) on shorted LV/HV FETs.
 - **InnoMux2-1700V & Inno3-SiC High dv/dt Testing Hardware:** Evaluated 1700V InnoMux2 max power capabilities for utility grid and industrial applications. Designed specialized high dv/dt test hardware for Silicon Carbide (InnoSwitch3-SiC F package) and evaluated automotive InnoSwitch3-AQ dV/dt characteristics during DOPL.
-- **DER-1050 (82W Smart Clothes-Dryer Rack Flyback Supply):** Designed an 82W flyback converter with 2 CV and 1 CC outputs using InnoMux2-EP and Switch Valley-Fill (SVF) passive PFC. Featured at PCIM 2025.
+- **DER-1050 (82W Smart Clothes-Dryer Rack Flyback Supply):** Designed an 82W flyback converter with 2 CV and 1 CC output using InnoMux2-EP and Switch Valley-Fill (SVF) passive PFC. Featured at PCIM 2025.
 
 ---
 
@@ -54,7 +54,7 @@ Results-driven Senior Power Supply Design Engineer with over 6 years of professi
 - Developed embedded C firmware for microcontroller-based digital power supply controls and communication protocols.
 
 **Selected Projects:**
-- **DER-1024 (65W Dual USB-C Power Supply):** Designed a 65W dual USB-C shared capacity power supply with current sharing using InnoSwitch3-Pro PowiGaN and Injoinic USB PD controllers. Showcase design at APEC 2024.
+- **DER-1024 (65W Dual USB-C Power Supply):** Designed a 65W dual USB-C shared capacity power supply with current sharing using InnoSwitch3-Pro PowiGaN and Injoinic USB PD controllers. Showcased design at APEC 2024.
 - **DER-1015 (140W USB PD 3.1 / EPR Power Supply):** Provided technical leadership for a 140W (280W peak power) USB PD 3.1 supply using InnoSwitch5-Pro and HiperPFS-5, optimizing conducted EMI and synchronous rectification ZVS operation.
 - **DER-867 (2-Wire BLE Smart Wall Switch):** Developed a smart wall switch using LinkSwitch-TNZ with an automated relay Zero-Voltage Switching (ZVS) timing calibration algorithm to eliminate inrush current. Integrated BLE protocol firmware.
 - **DER-727 (75W 2-Stage Dimmable LED Ballast):** Optimized dimming circuitry using LYTSwitch-6 PowiGaN and HiperPFS-5, enabling smooth <1% dimming without shimmer.
