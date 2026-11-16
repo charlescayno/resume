@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/charlescayno/
 
 ## PROFESSIONAL SUMMARY
 
-Results-driven Senior Power Supply Design Engineer with over 6 years of professional experience in the design, development, simulation, and validation of high-efficiency AC-DC and DC-DC power supply systems. Recognized expert in switch-mode power supply (SMPS) topologies, custom magnetic component design, high dv/dt & thermal stress analysis, and EMI/EMC mitigation. Proven capability in digital power control, automated multi-instrument testing across 20+ power IC products with Python, global project execution (including US engineering assignment), conference paper authoring (PCIM), and product qualification under global regulatory standards. Skilled in leading engineering projects, cross-functional collaboration, and mentoring technical teams.
+Senior Power Supply Design Engineer with nearly 7 years of experience designing and validating high-efficiency AC-DC and DC-DC power supplies. Strengths in SMPS topologies (flyback, LLC, PFC), custom magnetics, GaN/SiC designs, and EMI/EMC and high dv/dt stress analysis. Automated multi-instrument testing across 20+ power ICs with Python, authored a PCIM 2025 paper, and completed a US engineering assignment (2026).
 
 
 ## CORE COMPETENCIES & TECHNICAL SKILLS
