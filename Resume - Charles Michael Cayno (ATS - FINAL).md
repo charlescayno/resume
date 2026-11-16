@@ -7,12 +7,12 @@ LinkedIn: https://www.linkedin.com/in/charlescayno/
 
 ## PROFESSIONAL SUMMARY
 
-Senior Power Supply Design Engineer with nearly 7 years of experience designing and validating high-efficiency AC-DC and DC-DC power supplies. Strengths in SMPS topologies (flyback, LLC, PFC), custom magnetics, GaN/SiC designs, and EMI/EMC and high dv/dt stress analysis. Automated multi-instrument testing across 20+ power ICs with Python, authored a PCIM 2025 paper, and completed a US engineering assignment (2026).
+Senior Power Supply Design Engineer with nearly 7 years of experience designing and validating high-efficiency AC-DC and DC-DC power supplies. Strengths in SMPS topologies (flyback, PFC), custom magnetics, GaN/SiC designs, and EMI/EMC and high dv/dt stress analysis. Automated multi-instrument testing across 20+ power ICs with Python, authored a PCIM 2025 paper, and completed a US engineering assignment (2026).
 
 
 ## CORE COMPETENCIES & TECHNICAL SKILLS
 
-- **Power Electronics & Topologies:** AC-DC Converters, DC-DC Converters, Flyback, Buck, Boost, Flyboost, Resonant Converters (LLC), Switch-Mode Power Supplies (SMPS), Power Factor Correction (PFC), Valley-Fill PFC, Zero-Voltage Switching (ZVS), GaN / PowiGaN Technology, SiC (Silicon Carbide), 1700V High-Voltage Systems, Qi Wireless Charging, USB Power Delivery (USB PD 3.0 / 3.1 EPR).
+- **Power Electronics & Topologies:** AC-DC Converters, DC-DC Converters, Flyback, Buck, Boost, Flyboost, Switch-Mode Power Supplies (SMPS), Power Factor Correction (PFC), Valley-Fill PFC, Zero-Voltage Switching (ZVS), GaN / PowiGaN Technology, SiC (Silicon Carbide), 1700V High-Voltage Systems, Qi Wireless Charging, USB Power Delivery (USB PD 3.0 / 3.1 EPR).
 - **Circuit Design & Simulation:** SIMetrix, SIMPLIS, LTspice, MATLAB, Simulink, Schematic Capture, Transformer & Inductor Design (PQ, EFD, EE Cores), Ferrite Core Selection, Winding Design.
 - **PCB Layout & Tools:** Altium Designer, OrCAD Allegro, KiCad, High-Voltage Layout Design, Creepage & Clearance Compliance, Thermal Layout Optimization.
 - **Compliance & Testing:** EMI/EMC Compliance (CISPR 22 / EN 55022 Class B), Conducted & Radiated Immunity Testing (ESD, Surge), High dv/dt Testing Hardware, Extreme High-Temperature Testing (125°C Tj).

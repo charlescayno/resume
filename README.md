@@ -17,7 +17,7 @@ Welcome to my official resume repository! I am a **Senior Power Supply Design En
 - **Current Role:** Senior Power Supply Design Engineer at Power Integrations Netherlands B.V. (Philippine Branch)
 - **Education:** B.S. Electronics and Communications Engineering — University of the Philippines Diliman
 - **Licenses:** Licensed Electronics Engineer & Licensed Electronics Technician (PRC)
-- **Core Focus:** AC-DC/DC-DC Converters, Flyback, Valley-Fill PFC, Resonant Converters (LLC), GaN/PowiGaN, SiC, 1700V InnoMux2, USB PD 3.1 EPR, Custom Magnetics, EMI/EMC Compliance (CISPR 22 / EN 55022 Class B), Python Automation.
+- **Core Focus:** AC-DC/DC-DC Converters, Flyback, Valley-Fill PFC, GaN/PowiGaN, SiC, 1700V InnoMux2, USB PD 3.1 EPR, Custom Magnetics, EMI/EMC Compliance (CISPR 22 / EN 55022 Class B), Python Automation.
 
 ---
 
